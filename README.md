@@ -97,10 +97,6 @@ The data was preprocessed to eliminate unnecessary data:
 
 ![Cryptocurrency Scaled Data](Resources/totalcoinsmined.PNG)
 
-- Create new DataFrame with scaled data, add CoinName and Class columns
-
-![Cryptocurrency New DF](Resources/4NewDf.jpg)
-
 *A hvplot scatter plot is created where the X-axis is "TotalCoinsMined", the Y-axis is "TotalCoinSupply", the data is ordered by "Class", and it shows the CoinName when you hover over the data point.*
 
 ![Cryptocurrency Scatterplot](Resources/hvtext.PNG)
